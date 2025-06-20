@@ -22,6 +22,7 @@ SOURCE_URLS = [
     "https://t.me/s/ConfigsHUB2",
     "https://t.me/s/ArV2ray",
     # Add more URLs here if you want to include additional sources.
+    "https://t.me/proxycrone"
 ]
 
 # Set to True to fetch the maximum possible number of configurations.
