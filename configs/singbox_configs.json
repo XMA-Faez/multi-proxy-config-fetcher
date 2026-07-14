@@ -79,7 +79,7 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇺🇸 vmess-f1eea4e4 (United States)",
+        "🇺🇸 vmess-e14c7ea3 (United States)",
         "direct"
       ]
     },
@@ -87,7 +87,7 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇺🇸 vmess-f1eea4e4 (United States)"
+        "🇺🇸 vmess-e14c7ea3 (United States)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -99,7 +99,7 @@
     },
     {
       "type": "vmess",
-      "tag": "🇺🇸 vmess-f1eea4e4 (United States)",
+      "tag": "🇺🇸 vmess-e14c7ea3 (United States)",
       "server": "57.151.100.27",
       "server_port": 10086,
       "uuid": "550e8400-e29b-41d4-a716-446655440000",
