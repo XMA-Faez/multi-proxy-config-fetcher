@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-15T16:25:46.439055+00:00",
+  "timestamp": "2026-07-15T18:11:18.219018+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_1.txt",
@@ -8,11 +8,11 @@
         "total_configs": 30,
         "valid_configs": 3,
         "unique_configs": 3,
-        "avg_response_time": 0.03,
+        "avg_response_time": 0.07,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.45,
-        "last_success": "2026-07-15T16:22:19.413100+00:00",
+        "overall_score": 77.39,
+        "last_success": "2026-07-15T18:07:52.269210+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -123,18 +123,18 @@
         "total_configs": 18,
         "valid_configs": 14,
         "unique_configs": 14,
-        "avg_response_time": 0.24,
+        "avg_response_time": 0.2,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.08,
-        "last_success": "2026-07-15T16:25:16.423315+00:00",
+        "overall_score": 94.15,
+        "last_success": "2026-07-15T18:10:48.779278+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 13,
           "vmess://": 0,
-          "ss://": 1,
-          "trojan://": 0,
+          "ss://": 0,
+          "trojan://": 1,
           "tuic://": 0
         }
       }
@@ -192,11 +192,11 @@
         "total_configs": 24,
         "valid_configs": 11,
         "unique_configs": 11,
-        "avg_response_time": 0.41,
+        "avg_response_time": 0.31,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 85.85,
-        "last_success": "2026-07-15T16:25:23.453854+00:00",
+        "overall_score": 85.99,
+        "last_success": "2026-07-15T18:10:55.666881+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 1,
@@ -325,23 +325,23 @@
     },
     {
       "url": "https://t.me/s/shadowproxy66",
-      "enabled": true,
+      "enabled": false,
       "metrics": {
-        "total_configs": 13,
-        "valid_configs": 9,
-        "unique_configs": 9,
-        "avg_response_time": 0.28,
-        "success_count": 1,
-        "fail_count": 0,
-        "overall_score": 91.89,
-        "last_success": "2026-07-15T16:25:37.258297+00:00",
+        "total_configs": 0,
+        "valid_configs": 0,
+        "unique_configs": 0,
+        "avg_response_time": 0,
+        "success_count": 0,
+        "fail_count": 1,
+        "overall_score": 15.0,
+        "last_success": null,
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 7,
+          "vless://": 0,
           "vmess://": 0,
           "ss://": 0,
-          "trojan://": 2,
+          "trojan://": 0,
           "tuic://": 0
         }
       }
@@ -353,11 +353,11 @@
         "total_configs": 172,
         "valid_configs": 96,
         "unique_configs": 96,
-        "avg_response_time": 0.32,
+        "avg_response_time": 0.28,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 88.48,
-        "last_success": "2026-07-15T16:25:39.606685+00:00",
+        "overall_score": 88.53,
+        "last_success": "2026-07-15T18:11:11.617490+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 10,
