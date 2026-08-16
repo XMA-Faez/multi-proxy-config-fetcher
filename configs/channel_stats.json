@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-16T04:39:05.104697+00:00",
+  "timestamp": "2026-08-16T05:31:31.667027+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_1.txt",
@@ -8,16 +8,16 @@
         "total_configs": 506,
         "valid_configs": 13,
         "unique_configs": 13,
-        "avg_response_time": 0.02,
+        "avg_response_time": 0.05,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.61,
-        "last_success": "2026-08-16T04:35:38.589529+00:00",
+        "overall_score": 75.57,
+        "last_success": "2026-08-16T05:28:04.594789+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 10,
-          "vmess://": 2,
+          "vless://": 9,
+          "vmess://": 3,
           "ss://": 0,
           "trojan://": 1,
           "tuic://": 0
@@ -123,11 +123,11 @@
         "total_configs": 20,
         "valid_configs": 17,
         "unique_configs": 17,
-        "avg_response_time": 0.22,
+        "avg_response_time": 0.23,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.92,
-        "last_success": "2026-08-16T04:38:35.383458+00:00",
+        "overall_score": 95.9,
+        "last_success": "2026-08-16T05:31:01.832590+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -192,11 +192,11 @@
         "total_configs": 15,
         "valid_configs": 7,
         "unique_configs": 6,
-        "avg_response_time": 0.35,
+        "avg_response_time": 0.49,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 82.57,
-        "last_success": "2026-08-16T04:38:42.363894+00:00",
+        "overall_score": 82.36,
+        "last_success": "2026-08-16T05:31:08.939177+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 1,
