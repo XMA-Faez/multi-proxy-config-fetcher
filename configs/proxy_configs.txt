@@ -22,8 +22,6 @@ vless://19365fd3-d23c-4a9e-a2ef-543d230e65c4@193.233.217.140:2200?type=ws&path=%
 
 vless://19b64e79-73b4-4478-bbfc-fb57737b94f8@45.195.2.133:8443?type=raw&security=reality&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=firefox&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=445ab326fc7c90ac#%40Moftconfig%20%F0%9F%87%A8%F0%9F%87%AD%20Unknown%20%F0%9F%93%A1mci%20%E2%8F%B1387ms%20%E2%9A%A15.2MB/s
 
-vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.186.242:8686?type=raw&security=reality&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#%40Moftconfig%20%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%E2%9C%85GeoOK%20%F0%9F%93%A1mci%20%E2%8F%B1250ms
-
 vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@194.93.61.70:443?type=raw&security=reality&flow=xtls-rprx-vision&sni=cdnjs.com&fp=firefox&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=cbb0a5c1dc905505#%40Moftconfig%20%F0%9F%87%B3%F0%9F%87%B1%20Unknown%20%F0%9F%93%A1mci%20%E2%8F%B1104ms%20%E2%9A%A119.0MB/s
 
 vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@31.56.188.105:443?type=raw&security=reality&flow=xtls-rprx-vision&sni=s3.storage.anti-zapret.com&fp=firefox&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=cbb0a5c1dc905505#%40Moftconfig%20%F0%9F%87%B5%F0%9F%87%B1%20Unknown%20%F0%9F%93%A1mci%20%E2%8F%B1118ms%20%E2%9A%A12.7MB/s
@@ -44,8 +42,6 @@ vless://309b0ce3-09a8-4883-bfe4-bd56e215be44@31.76.91.138:2087?mode=gun&security
 
 vless://3637fb28-8c92-4518-a5d3-95524aef6e90@147.45.99.16:4100?type=ws&host=live.ok.ru&path=%2Fv1#%40Moftconfig%20%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%F0%9F%93%A1mci%20%E2%8F%B1208ms
 
-vless://3637fb28-8c92-4518-a5d3-95524aef6e90@194.26.229.225:2200?type=ws&host=rzd.ru&path=%2Fv1&fp=android#%40Moftconfig%20%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%F0%9F%93%A1mci%20%E2%8F%B1153ms
-
 vless://389e0591-86d6-408f-bf24-18f611a0c94b@66.42.62.84:443?type=raw&security=reality&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&pbk=kxuW6rJkcKU88l_sgqezrcMFEy4yofrgouBoKufWASs&sid=2fadfe9a357ec21e#%40Moftconfig%20%F0%9F%87%B8%F0%9F%87%AC%20Unknown%20%F0%9F%93%A1mci%20%E2%8F%B1466ms%20%E2%9A%A1871KB/s
 
 vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.140:443?security=reality&encryption=none&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=getsavesafe.net&sid=82f5d3a1e9c0b661#Free%20342%20%40Outline_Vpn
@@ -59,6 +55,8 @@ vless://423b1d79-08c4-403f-9d5e-c541f791b55f@177.3.214.181:443?type=raw&security
 vless://474f10e3-c205-4204-999a-466ffcca1b10@194.110.207.48:443?type=raw&security=reality&flow=xtls-rprx-vision&sni=kibi-institut.de&fp=firefox&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&sid=fd55b698ee8c3629#%40Moftconfig%20%F0%9F%87%B3%F0%9F%87%B4%20Unknown%20%F0%9F%93%A1mci%20%E2%8F%B1336ms%20%E2%9A%A11.2MB/s
 
 vless://485717cf-e96c-40db-9bc1-624060b89f20@211.76.176.156:53453?type=raw&security=reality&flow=xtls-rprx-vision&sni=www.python.org&fp=firefox&pbk=i0nN_0uLl5ha8pIf6gNNLeLQe7it-nXDFLC5eM1BHV4&sid=bb9b8f5f#%40Moftconfig%20%F0%9F%87%BA%F0%9F%87%B8%20Unknown%20%F0%9F%93%A1mci%20%E2%8F%B1473ms%20%E2%9A%A1596KB/s
+
+vless://59954126-633d-4ed2-9af5-8801e85ec7d5@85.192.56.243:443?type=grpc&security=reality&sni=yandex.ru&fp=chrome&pbk=hEyhCVfwVjIWoXIkG_VfqJ0DsgXbhjap5Waqwq-NqGE&sid=3e&serviceName=google.android.location.SyncService#%40Moftconfig%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%F0%9F%93%A1mci%20%E2%8F%B11213ms
 
 vless://66824c94-7ba9-4113-908e-bd793f296852@45.195.111.108:443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A🍊
 
@@ -86,6 +84,8 @@ vless://7aecb4a5-f0a4-32a0-aabe-c9d5241e313f@family.bucket.5.kfc-520.com:10006?t
 
 vless://7b2ce6b0-6d2b-4926-b7bf-6247eb1a0050@188.225.47.234:4100?type=ws&path=%2Fv1#%40Moftconfig%20%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%F0%9F%93%A1mci%20%E2%8F%B17889ms
 
+vless://7d2bac5e-6ff9-45c9-844e-6bfc5a384a42@31.76.119.117:443?security=reality&encryption=none&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&host=%2F%3FJOIN_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de.orpheous.ru&sid=9e4eced6e98ed4d4#filembad-243  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
+
 vless://7ee53e03-96ed-4121-9da2-62f3d3374506@185.185.69.26:4100?type=ws&host=live.ok.ru&path=%2Fv1#%40Moftconfig%20%F0%9F%87%B7%F0%9F%87%BA%20Unknown%20%F0%9F%93%A1mci%20%E2%8F%B13610ms
 
 vless://7efc901f-7862-40e8-902b-4bfad8f8ca88@213.165.40.175:2083?type=raw&security=tls&sni=213.165.40.175.sslip.io&fp=firefox#%40Moftconfig%20%F0%9F%87%B3%F0%9F%87%B1%20Unknown%20%F0%9F%93%A1mci%20%E2%8F%B1171ms%20%E2%9A%A112.7MB/s
@@ -100,11 +100,11 @@ vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%3Fed%3D2048&
 
 vless://84d0ff7b-9760-415f-a974-b3e1fe92264f@194.26.229.122:2200?type=ws&host=rzd.ru&path=%2Fv1&fp=android#%40Moftconfig%20%F0%9F%87%B7%F0%9F%87%BA%20Unknown%20%F0%9F%93%A1mci%20%E2%8F%B1159ms
 
+vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@46.243.234.205:2027?type=raw&security=reality&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=firefox&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=dc8109baf0f607ea#%40Moftconfig%20%F0%9F%87%A9%F0%9F%87%AA%20Unknown%20%F0%9F%93%A1mci%20%E2%8F%B12021ms
+
 vless://903daa6f-534c-4f4a-bbc8-024993f5cb01@www.speedtest.net:443?type=ws&security=tls&sni=ptr.cyberbear.io&host=ptr.cyberbear.io&path=%2FCMlsadnCISdss&fp=random#%40Moftconfig%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%F0%9F%93%A1mci%20%E2%8F%B1129ms
 
 vless://928e6cce-8ced-4243-9a48-a6642edd09b0@69.63.193.78:13779?type=raw&security=reality&flow=xtls-rprx-vision&sni=tesla.com&fp=chrome&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&sid=af1bdd293097b664#%40Moftconfig%20%F0%9F%87%BA%F0%9F%87%B8%20Unknown%20%F0%9F%93%A1mci%20%E2%8F%B1218ms%20%E2%9A%A11.6MB/s
-
-vless://93ee032f-b67f-4cac-a239-da1295aec528@farancenew.mamadhpbot.ir:50118?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#filembad-279  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
 vless://95e8532b-cc69-42d4-9553-e3c23292b15b@45.152.198.111:6443?type=grpc&security=reality&sni=maps.apple.com&fp=chrome&pbk=OMlQAFrCMZ3DX0xlnbEZiByLBFzpUE8XJHJsrBzLdlY&sid=2da4299da566b7&serviceName=your-custom-path#%40Moftconfig%20%F0%9F%87%A9%F0%9F%87%AA%20Unknown%20%F0%9F%93%A1mci%20%E2%8F%B1197ms%20%E2%9A%A14.4MB/s
 
@@ -115,8 +115,6 @@ vless://9647129d-57ff-4fe2-bbd8-4a49d622612a@185.121.179.11:443?type=raw&securit
 vless://980502a9-c8b4-48bb-b294-bbd846434712@163.128.99.208:443?type=raw&security=reality&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&pbk=eXWCRw_UjfzOb2vr1I-VQO3GZQCf3lwlE8Ldzn8EO2A&sid=2f8feff3c9e71b4c#%40Moftconfig%20%F0%9F%87%B8%F0%9F%87%AC%20Unknown%20%F0%9F%93%A1mci%20%E2%8F%B1283ms%20%E2%9A%A1701KB/s
 
 vless://9ce7ac33-5004-40ea-8236-15bc2d25a37c@198.41.208.42:443?path=%2FV2ngFast--V2ngFast--V2ngFast--V2ngFast--V2ngFast--V2ngFast--V2ngFast&security=tls&encryption=none&host=calm-base-e99e.pofokjimi.workers.dev&fp=chrome&type=ws&sni=calm-base-e99e.pofokjimi.workers.dev#canfingV2rayNG-296  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
-
-vless://9ddd1219-bc7f-4524-ad7c-5b110e7c37bc@201.24.53.247:8449?type=raw&security=reality&flow=xtls-rprx-vision&sni=www.rumedia-cdn.com&fp=qq&pbk=lcLyifIUyL1UnMABv4u7mVSh7VRmOVaZinSDfSKB13g&sid=60ccd0e5ab46ac4f#%40Moftconfig%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%F0%9F%93%A1mci%20%E2%8F%B1282ms
 
 vless://XpnTeam-23@140.248.186.45:443?type=ws&security=tls&sni=ssl.fastly.com&host=Appxdn.global.ssl.fastly.net&path=%2F&fp=chrome&alpn=http%2F1.1#%40Moftconfig%20%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%9C%85GeoOK%20%F0%9F%93%A1mci%20%E2%9A%A1Fastly%20%E2%8F%B1159ms%20%E2%9A%A16.3MB/s
 
@@ -134,15 +132,17 @@ vless://a1d262a9-6d57-4ff0-99e4-594782c2ca7c@5.75.207.247:4227?security=reality&
 
 vless://a95974c3-29ed-4548-ab42-b588b321a5ce@200.165.229.168:2084?type=raw&security=reality&flow=xtls-rprx-vision&sni=www.rumedia-cdn.com&fp=qq&pbk=mrsI2kSF8FmNnFKn_-bpDU8VS6Tews7wkABJGdwMUAg&sid=3578bd8a4032dcab#%40Moftconfig%20Unknown%20%F0%9F%93%A1mci%20%E2%8F%B1302ms%20%E2%9A%A11.4MB/s
 
-vless://a95974c3-29ed-4548-ab42-b588b321a5ce@201.24.53.247:2084?type=raw&security=reality&flow=xtls-rprx-vision&sni=www.rumedia-cdn.com&fp=qq&pbk=mrsI2kSF8FmNnFKn_-bpDU8VS6Tews7wkABJGdwMUAg&sid=3578bd8a4032dcab#%40Moftconfig%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%F0%9F%93%A1mci%20%E2%8F%B1763ms
-
-vless://b3198f79-b4e6-4da0-9088-a9ec89e5f8d7@201.24.53.247:8448?type=raw&security=reality&flow=xtls-rprx-vision&sni=www.rumedia-cdn.com&fp=qq&pbk=WvMqlTcY5BY7WbrsGCwtA4VzhXGaP-FkjoOHn-yMsSI&sid=a94eb0e19d010373#%40Moftconfig%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%F0%9F%93%A1mci%20%E2%8F%B1308ms
-
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@103.109.234.129:443?security=reality&encryption=none&pbk=gA6-Fj5hl4x-HOtbCcYqD99qsml4ActHRmw-VTkFU14&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=dep.opngtr.nl&sid=7d6b6b7a606c21cf#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A🔥
 
 vless://b91abe1a-80ca-417b-998b-2b542661c16f@57.131.42.58:8008?mode=packet-up&path=%2Fapi%2Fv1%2Fstream&security=reality&encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=yGB6HD9OYiD77YWTH1YxcG9yIYkyeEYOEcHL-WnwQn8&fp=chrome&type=xhttp&sni=play.google.com&sid=5f9a#ProxyMtpVPN-351  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
 
 vless://be5b6ad6-8184-4b63-82ac-3bc00c09c98c@5.152.223.97:443?security=reality&encryption=none&pbk=IFEZmwpGK7VCuDj3kmVdyMn7vUIG8Sntc6TG4eIS3xs&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=strapi.io&sid=1aa9f3c9021280c0#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A💫
+
+vless://c0460ba7-a0a3-44f9-9913-a46a43c4601c@inbound.sled019fd6eb-369f.rfsconfig.com:2538?type=raw&security=reality&flow=xtls-rprx-vision&sni=k0g3h.biliimg.com&fp=chrome&pbk=aOfVRBN3tfHAXKY4-8SdNb0hsxY2LhaiIyTfkPXLiks&sid=71150e37#%40Moftconfig%20%F0%9F%87%AD%F0%9F%87%B0%20Unknown%20%F0%9F%93%A1mci%20%E2%8F%B1368ms%20%E2%9A%A11.0MB/s
+
+vless://c0460ba7-a0a3-44f9-9913-a46a43c4601c@inbound.sled019fd6eb-369f.rfsconfig.com:2547?type=raw&security=reality&flow=xtls-rprx-vision&sni=k0g3h.biliimg.com&fp=chrome&pbk=SrGOuIhztjhU6N1kpQ2yKzP1U-wji102Li6yAU9pPXA&sid=5714279a#%40Moftconfig%20%F0%9F%87%B9%F0%9F%87%BC%20Unknown%20%F0%9F%93%A1mci%20%E2%8F%B1381ms%20%E2%9A%A11.2MB/s
+
+vless://c0460ba7-a0a3-44f9-9913-a46a43c4601c@inbound.sled019fd6eb-369f.rfsconfig.com:2559?type=raw&security=reality&flow=xtls-rprx-vision&sni=k0g4h.biliimg.com&fp=safari&pbk=QKR0IqOn_cONIETgo9jQFLZtAeaqa3_BSHWoSS8wfg4&sid=0eee7579#%40Moftconfig%20%F0%9F%87%B8%F0%9F%87%AC%20Unknown%20%F0%9F%93%A1mci%20%E2%8F%B1377ms%20%E2%9A%A11.3MB/s
 
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6QXZnYkZJVjdDZXg1L3FUNVVaWmZjemZtNEh2aWVQN2NTNTBYeFh0dytFQT0@168.107.84.216:56927#%40Moftconfig%20%F0%9F%87%B8%F0%9F%87%AC%20Unknown%20%F0%9F%93%A1mci%20%E2%8F%B1383mssocks://Og%3D%3D@185.79.96.92:1070#%40Moftconfig%20%F0%9F%87%AE%F0%9F%87%B7%20Unknown%20%F0%9F%93%A1mci%20%E2%8F%B1604ms
 
@@ -152,9 +152,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTWFxbUxKd1dYdGRKUHZwelhEMk1TWWlaclhEd25lcVp
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUVTROVUp1TWU0WGxaM05DUV8xS2lR@147.45.211.243:1080#%40Moftconfig%20%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%F0%9F%93%A1mci%20%E2%8F%B1296ms
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUVTROVUp1TWU0WGxaM05DUV8xS2lR@netixu.mashhad1market.ir:1080#%40Moftconfig%20%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%9C%85GeoOK%20%F0%9F%93%A1mci%20%E2%8F%B1139ms
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMkZpdnppU29vV01EekU2cDJrQng3cmk3b3dkTFp5UG51UUxQZURoblk4cVhLbTZ6WjRNMzlwb3Y0dzdNZnhSTjVGaldxQzFjQ0E4Z0dvTHBaUVZvdVB0OWNDQTlpZE4@166.1.129.245:42607#%40Moftconfig%20%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%9C%85GeoOK%20%F0%9F%93%A1mci%20%E2%8F%B1706ms
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.159:8080#%40Moftconfig%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%F0%9F%93%A1mci%20%E2%8F%B192ms
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.238:8080#%40Moftconfig%20%F0%9F%87%B3%F0%9F%87%B1%20Unknown%20%F0%9F%93%A1mci%20%E2%8F%B1123ms%20%E2%9A%A112.8MB/s
 
@@ -191,8 +191,6 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.183.121.177:443#%40Moftconfig%20%F0%9F%8
 ss://YWVzLTI1Ni1jZmI6cVlFTjVIWDRKS2VWQ2RFQw@195.238.126.84:9039#%40Moftconfig%20%F0%9F%87%B1%F0%9F%87%B9%20Unknown%20%F0%9F%93%A1mci%20%E2%8F%B1426ms%20%E2%9A%A15.8MB/s
 
 ss://YWVzLTI1Ni1jZmI6dGtoSFZ4eGZNMlFFckJXZQ@217.30.10.44:9062#%40Moftconfig%20%F0%9F%87%B5%F0%9F%87%B1%20Unknown%20%F0%9F%93%A1mci%20%E2%8F%B1125ms%20%E2%9A%A12.6MB/s
-
-ss://YWVzLTI1Ni1nY206QW1lcmljYTIwMjZATEFY@192.220.55.35:48378#%40Moftconfig%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%9C%85GeoOK%20%F0%9F%93%A1mci%20%E2%8F%B1253ms
 
 ss://YWVzLTI1Ni1nY206YmRiMzEzYWRmNzRjMmVkZQ@46.17.40.234:40112#%40Moftconfig%20%F0%9F%87%B7%F0%9F%87%BA%20Unknown%20%F0%9F%93%A1mci%20%E2%8F%B1157ms%20%E2%9A%A11.7MB/s
 
