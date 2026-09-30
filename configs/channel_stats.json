@@ -1,25 +1,25 @@
 {
-  "timestamp": "2026-09-30T16:47:21.566457+00:00",
+  "timestamp": "2026-09-30T21:19:06.397296+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_1.txt",
       "enabled": true,
       "metrics": {
         "total_configs": 930,
-        "valid_configs": 22,
-        "unique_configs": 22,
-        "avg_response_time": 0.13,
+        "valid_configs": 19,
+        "unique_configs": 19,
+        "avg_response_time": 0.18,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.4,
-        "last_success": "2026-09-30T16:43:55.186759+00:00",
+        "overall_score": 75.24,
+        "last_success": "2026-09-30T21:15:40.614146+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 9,
-          "vmess://": 4,
+          "vless://": 12,
+          "vmess://": 2,
           "ss://": 1,
-          "trojan://": 8,
+          "trojan://": 4,
           "tuic://": 0
         }
       }
@@ -120,21 +120,21 @@
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
-        "total_configs": 18,
-        "valid_configs": 13,
-        "unique_configs": 13,
-        "avg_response_time": 0.21,
+        "total_configs": 19,
+        "valid_configs": 12,
+        "unique_configs": 12,
+        "avg_response_time": 0.2,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 92.74,
-        "last_success": "2026-09-30T16:46:51.997752+00:00",
+        "overall_score": 90.49,
+        "last_success": "2026-09-30T21:18:37.266130+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 12,
+          "vless://": 10,
           "vmess://": 0,
           "ss://": 0,
-          "trojan://": 1,
+          "trojan://": 2,
           "tuic://": 0
         }
       }
@@ -143,7 +143,7 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": false,
       "metrics": {
-        "total_configs": 13,
+        "total_configs": 12,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -190,20 +190,20 @@
       "enabled": true,
       "metrics": {
         "total_configs": 14,
-        "valid_configs": 7,
-        "unique_configs": 6,
+        "valid_configs": 5,
+        "unique_configs": 2,
         "avg_response_time": 0.35,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 83.41,
-        "last_success": "2026-09-30T16:46:58.944593+00:00",
+        "overall_score": 68.41,
+        "last_success": "2026-09-30T21:18:44.112898+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 5,
           "vmess://": 0,
           "ss://": 0,
-          "trojan://": 2,
+          "trojan://": 0,
           "tuic://": 0
         }
       }
@@ -235,7 +235,7 @@
       "url": "https://t.me/s/DirectVPN",
       "enabled": false,
       "metrics": {
-        "total_configs": 13,
+        "total_configs": 12,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
